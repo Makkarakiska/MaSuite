@@ -21,7 +21,7 @@ dependencies {
     implementation("javax.persistence:javax.persistence-api:2.2")
 
     implementation("org.spongepowered:configurate-yaml:4.1.2")
-    compileOnly("com.google.code.gson:gson:2.9.0")
+    compileOnly("com.google.code.gson:gson:2.10.1")
 
     compileOnly("net.kyori:adventure-api:4.9.3")
     compileOnly("net.kyori:adventure-text-minimessage:4.1.0-SNAPSHOT")
