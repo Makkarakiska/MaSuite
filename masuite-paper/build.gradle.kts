@@ -23,7 +23,7 @@ dependencies {
     compileOnly("io.papermc.paper:paper-api:1.18.1-R0.1-SNAPSHOT")
     implementation("co.aikar:acf-paper:0.5.0-SNAPSHOT")
 
-    implementation("net.kyori:adventure-platform-bukkit:4.0.1")
+    implementation("net.kyori:adventure-platform-bukkit:4.3.2")
     implementation("net.kyori:adventure-text-minimessage:4.1.0-SNAPSHOT")
     implementation("org.spongepowered:configurate-yaml:4.1.2")
 
