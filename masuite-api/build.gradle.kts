@@ -10,6 +10,6 @@ repositories {
 }
 
 dependencies {
-    compileOnly("net.kyori:adventure-api:4.9.3")
+    compileOnly("net.kyori:adventure-api:4.16.0")
     compileOnly("net.kyori:adventure-text-minimessage:4.1.0-SNAPSHOT")
 }
