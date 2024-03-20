@@ -15,8 +15,8 @@ dependencies {
 
     implementation("mysql:mysql-connector-java:8.0.29")
 
-    compileOnly("org.projectlombok:lombok:1.18.24")
-    annotationProcessor("org.projectlombok:lombok:1.18.24")
+    compileOnly("org.projectlombok:lombok:1.18.32")
+    annotationProcessor("org.projectlombok:lombok:1.18.32")
     implementation("com.j256.ormlite:ormlite-jdbc:6.1")
     implementation("javax.persistence:javax.persistence-api:2.2")
 
