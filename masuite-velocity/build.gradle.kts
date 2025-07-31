@@ -18,7 +18,7 @@ dependencies {
     compileOnly("org.projectlombok:lombok:1.18.24")
     annotationProcessor("org.projectlombok:lombok:1.18.24")
 
-    implementation("org.spongepowered:configurate-yaml:4.1.2")
+    implementation("org.spongepowered:configurate-yaml:4.2.0")
     implementation("net.kyori:adventure-text-minimessage:4.1.0-SNAPSHOT")
 }
 

@@ -20,7 +20,7 @@ dependencies {
     implementation("com.j256.ormlite:ormlite-jdbc:6.1")
     implementation("javax.persistence:javax.persistence-api:2.2")
 
-    implementation("org.spongepowered:configurate-yaml:4.1.2")
+    implementation("org.spongepowered:configurate-yaml:4.2.0")
     compileOnly("com.google.code.gson:gson:2.9.0")
 
     compileOnly("net.kyori:adventure-api:4.9.3")
